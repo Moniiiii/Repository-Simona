@@ -5,7 +5,7 @@ Test Setup     Open Chrome To Storefront
 
 *** Test Cases ***
 
-#Scenario: Search From Category
-#    Given I Hover Over Women Category
-#    And I Search For Blouses
-#    Then Products On Product Listing Page Correspond
+Scenario: Search From Category
+    Given I Hover Over Women Category
+    And I Search For Blouses
+    Then Products On Product Listing Page Correspond

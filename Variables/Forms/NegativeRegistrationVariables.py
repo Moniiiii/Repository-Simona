@@ -1,0 +1,1 @@
+invalid_email = "simona.test.abv.bg"

@@ -1,0 +1,7 @@
+section_w1 = "xpath = //a[@title='Women']"
+t_shirts = "xpath = //a[@title='T-shirts']"
+product = "xpath = //div[@class='left-block']"
+quantity_element_plus = "xpath = //a[contains(@class,'product_quantity_up')]"
+size = "xpath = //select[@id='group_1']"
+add_to_cart_button = "xpath = //button[@name='Submit']"
+message = "xpath = //i[@class='icon-ok']"

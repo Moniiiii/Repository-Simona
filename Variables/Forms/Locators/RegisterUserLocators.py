@@ -1,4 +1,4 @@
-top_navigation_sign_in = "xpath = //a[contains(@class,'login')]"
+sign_in_button_home_page = "xpath = //a[contains(@class,'login')]"
 email_field = "xpath = //input[@id='email_create']"
 create_account_button = "xpath = //button[@id='SubmitCreate']"
 first_name = "xpath = //input[@id='customer_firstname']"
