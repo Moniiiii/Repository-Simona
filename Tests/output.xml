@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generator="Robot 3.1.2 (Python 3.8.2 on win32)" generated="20200401 19:09:22.590" rpa="false">
+<suite id="s1" name="CheckTotalsTest" source="C:\Users\TechHuddle\Documents\Repository-Simona\Tests\CheckTotalsTest.robot">
+<test id="s1-t1" name="Scenario: Check Totals Sum">
+<kw name="Open Chrome To Storefront" type="setup">
+<msg timestamp="20200401 19:09:22.632" level="FAIL">No keyword with name 'Open Chrome To Storefront' found.</msg>
+<status status="FAIL" starttime="20200401 19:09:22.632" endtime="20200401 19:09:22.632"></status>
+</kw>
+<status status="FAIL" starttime="20200401 19:09:22.629" endtime="20200401 19:09:22.632" critical="yes">Setup failed:
+No keyword with name 'Open Chrome To Storefront' found.</status>
+</test>
+<status status="FAIL" starttime="20200401 19:09:22.593" endtime="20200401 19:09:22.635"></status>
+</suite>
+<statistics>
+<total>
+<stat pass="0" fail="1">Critical Tests</stat>
+<stat pass="0" fail="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat pass="0" fail="1" id="s1" name="CheckTotalsTest">CheckTotalsTest</stat>
+</suite>
+</statistics>
+<errors>
+<msg timestamp="20200401 19:09:22.626" level="ERROR">Error in file 'C:\Users\TechHuddle\Documents\Repository-Simona\Tests\CheckTotalsTest.robot': Resource file 'C:\Users\TechHuddle\Documents\Repository-Simona\Tests\main.robot' does not exist.</msg>
+</errors>
+</robot>

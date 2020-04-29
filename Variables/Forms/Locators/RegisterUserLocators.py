@@ -1,7 +1,7 @@
 sign_in_button_home_page = "xpath = //a[contains(@class,'login')]"
 email_field = "xpath = //input[@id='email_create']"
 create_account_button = "xpath = //button[@id='SubmitCreate']"
-first_name = "xpath = //input[@id='customer_firstname']"
+first_name1 = "xpath = //input[@id='customer_firstname']"
 your_personal_information = "xpath=//h3[@class='page-subheading']"
 last_name = "xpath = //input[@id='customer_lastname']"
 password = "xpath = //input[@id='passwd']"

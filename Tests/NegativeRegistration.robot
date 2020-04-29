@@ -5,8 +5,8 @@ Test Setup     Open Chrome To Storefront
 
 
 *** Test Cases ***
-#
-#Scenario Outline: Unsuccessful Registration Of A Customer - Invalid Information
-#    Given I Am Registering A Customer With Invalid Data
-#    And I Am Entering Invalid Information
-#    Then The Registration Is Not Successful
+
+Scenario Outline: Unsuccessful Registration Of A Customer - Invalid Information
+    Given I Am Registering A Customer With Invalid Data
+    And I Am Entering Invalid Information
+    Then The Registration Is Not Successful
